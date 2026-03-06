@@ -142,7 +142,7 @@ li {
   position: relative;
   height: 100vh;
   overflow: hidden;
-  background-image: url("../Images/banner1.jpg");
+  background-image: url("../Images/hero-bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
