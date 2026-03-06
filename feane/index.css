@@ -121,6 +121,7 @@ li {
   color: #fff;
   border-radius: 30px;
   margin-left: 20px;
+
 }
 .btn__primary:hover {
   background: #ffbe33;
@@ -244,6 +245,7 @@ li {
 .product__section {
   max-width: 1200px;
   margin: auto;
+  
 }
 .product__list {
   display: grid;
